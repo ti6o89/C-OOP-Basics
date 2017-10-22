@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Defining Classes\Problem 3. Oldest Family Member\bin\Debug\Problem_3.Oldest_Family_Member.exe.config
+E:\SoftUni\C#OOP\Defining Classes\Problem 3. Oldest Family Member\obj\Debug\Problem 3. Oldest Family Member.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Defining Classes\Problem 3. Oldest Family Member\bin\Debug\Problem_3.Oldest_Family_Member.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 3. Oldest Family Member\bin\Debug\Problem_3.Oldest_Family_Member.pdb
+E:\SoftUni\C#OOP\Defining Classes\Problem 3. Oldest Family Member\obj\Debug\Problem_3.Oldest_Family_Member.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 3. Oldest Family Member\obj\Debug\Problem_3.Oldest_Family_Member.pdb

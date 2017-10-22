@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Polymorphism-Lab\2. Animals\bin\Debug\_2.Animals.exe.config
+E:\SoftUni\C#OOP\Polymorphism-Lab\2. Animals\obj\Debug\2. Animals.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Polymorphism-Lab\2. Animals\bin\Debug\_2.Animals.exe
+E:\SoftUni\C#OOP\Polymorphism-Lab\2. Animals\bin\Debug\_2.Animals.pdb
+E:\SoftUni\C#OOP\Polymorphism-Lab\2. Animals\obj\Debug\_2.Animals.exe
+E:\SoftUni\C#OOP\Polymorphism-Lab\2. Animals\obj\Debug\_2.Animals.pdb

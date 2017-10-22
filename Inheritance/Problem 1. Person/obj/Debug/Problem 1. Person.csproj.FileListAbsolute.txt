@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Inheritance\Problem 1. Person\bin\Debug\Problem_1.Person.exe.config
+E:\SoftUni\C#OOP\Inheritance\Problem 1. Person\bin\Debug\Problem_1.Person.exe
+E:\SoftUni\C#OOP\Inheritance\Problem 1. Person\bin\Debug\Problem_1.Person.pdb
+E:\SoftUni\C#OOP\Inheritance\Problem 1. Person\obj\Debug\Problem 1. Person.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Inheritance\Problem 1. Person\obj\Debug\Problem_1.Person.exe
+E:\SoftUni\C#OOP\Inheritance\Problem 1. Person\obj\Debug\Problem_1.Person.pdb

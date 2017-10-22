@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Defining Classes\Problem 11. Pokemon Trainer\bin\Debug\Problem_11.Pokemon_Trainer.exe.config
+E:\SoftUni\C#OOP\Defining Classes\Problem 11. Pokemon Trainer\bin\Debug\Problem_11.Pokemon_Trainer.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 11. Pokemon Trainer\bin\Debug\Problem_11.Pokemon_Trainer.pdb
+E:\SoftUni\C#OOP\Defining Classes\Problem 11. Pokemon Trainer\obj\Debug\Problem 11. Pokemon Trainer.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Defining Classes\Problem 11. Pokemon Trainer\obj\Debug\Problem_11.Pokemon_Trainer.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 11. Pokemon Trainer\obj\Debug\Problem_11.Pokemon_Trainer.pdb

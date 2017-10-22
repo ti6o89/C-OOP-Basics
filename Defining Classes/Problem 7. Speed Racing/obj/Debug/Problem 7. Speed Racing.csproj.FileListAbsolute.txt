@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Defining Classes\Problem 7. Speed Racing\bin\Debug\Problem_7.Speed_Racing.exe.config
+E:\SoftUni\C#OOP\Defining Classes\Problem 7. Speed Racing\bin\Debug\Problem_7.Speed_Racing.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 7. Speed Racing\bin\Debug\Problem_7.Speed_Racing.pdb
+E:\SoftUni\C#OOP\Defining Classes\Problem 7. Speed Racing\obj\Debug\Problem 7. Speed Racing.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Defining Classes\Problem 7. Speed Racing\obj\Debug\Problem_7.Speed_Racing.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 7. Speed Racing\obj\Debug\Problem_7.Speed_Racing.pdb

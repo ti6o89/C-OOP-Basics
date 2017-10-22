@@ -1,0 +1,1 @@
+E:\SoftUni\C#OOP\Inheritance\5. Stack of Strings\bin\Debug\_5.Stack_of_Strings.exe.config

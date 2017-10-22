@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Defining Classes\Defining Classes Exercises\bin\Debug\Defining Classes Exercises.exe.config
+E:\SoftUni\C#OOP\Defining Classes\Defining Classes Exercises\bin\Debug\Defining Classes Exercises.exe
+E:\SoftUni\C#OOP\Defining Classes\Defining Classes Exercises\bin\Debug\Defining Classes Exercises.pdb
+E:\SoftUni\C#OOP\Defining Classes\Defining Classes Exercises\obj\Debug\Defining Classes Exercises.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Defining Classes\Defining Classes Exercises\obj\Debug\Defining Classes Exercises.exe
+E:\SoftUni\C#OOP\Defining Classes\Defining Classes Exercises\obj\Debug\Defining Classes Exercises.pdb

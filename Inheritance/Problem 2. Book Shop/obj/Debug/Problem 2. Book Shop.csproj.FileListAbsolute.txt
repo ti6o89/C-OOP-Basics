@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Inheritance\Problem 2. Book Shop\bin\Debug\Problem_2.Book_Shop.exe.config
+E:\SoftUni\C#OOP\Inheritance\Problem 2. Book Shop\bin\Debug\Problem_2.Book_Shop.exe
+E:\SoftUni\C#OOP\Inheritance\Problem 2. Book Shop\bin\Debug\Problem_2.Book_Shop.pdb
+E:\SoftUni\C#OOP\Inheritance\Problem 2. Book Shop\obj\Debug\Problem 2. Book Shop.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Inheritance\Problem 2. Book Shop\obj\Debug\Problem_2.Book_Shop.exe
+E:\SoftUni\C#OOP\Inheritance\Problem 2. Book Shop\obj\Debug\Problem_2.Book_Shop.pdb

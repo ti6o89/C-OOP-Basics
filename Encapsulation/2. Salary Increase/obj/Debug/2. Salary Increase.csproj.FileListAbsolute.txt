@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Encapsulation\2. Salary Increase\bin\Debug\_2.Salary_Increase.exe.config
+E:\SoftUni\C#OOP\Encapsulation\2. Salary Increase\bin\Debug\_2.Salary_Increase.exe
+E:\SoftUni\C#OOP\Encapsulation\2. Salary Increase\bin\Debug\_2.Salary_Increase.pdb
+E:\SoftUni\C#OOP\Encapsulation\2. Salary Increase\obj\Debug\2. Salary Increase.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Encapsulation\2. Salary Increase\obj\Debug\_2.Salary_Increase.exe
+E:\SoftUni\C#OOP\Encapsulation\2. Salary Increase\obj\Debug\_2.Salary_Increase.pdb

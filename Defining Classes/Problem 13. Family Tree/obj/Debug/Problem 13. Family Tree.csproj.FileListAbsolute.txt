@@ -1,0 +1,5 @@
+E:\SoftUni\C#OOP\Defining Classes\Problem 13. Family Tree\bin\Debug\Problem_13.Family_Tree.exe.config
+E:\SoftUni\C#OOP\Defining Classes\Problem 13. Family Tree\bin\Debug\Problem_13.Family_Tree.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 13. Family Tree\bin\Debug\Problem_13.Family_Tree.pdb
+E:\SoftUni\C#OOP\Defining Classes\Problem 13. Family Tree\obj\Debug\Problem_13.Family_Tree.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 13. Family Tree\obj\Debug\Problem_13.Family_Tree.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Defining Classes\Problem 12. Google\bin\Debug\Problem_12.Google.exe.config
+E:\SoftUni\C#OOP\Defining Classes\Problem 12. Google\bin\Debug\Problem_12.Google.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 12. Google\bin\Debug\Problem_12.Google.pdb
+E:\SoftUni\C#OOP\Defining Classes\Problem 12. Google\obj\Debug\Problem 12. Google.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Defining Classes\Problem 12. Google\obj\Debug\Problem_12.Google.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 12. Google\obj\Debug\Problem_12.Google.pdb

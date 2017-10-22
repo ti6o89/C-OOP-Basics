@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\ExamPreparation\NeedForSpeed\bin\Debug\NeedForSpeed.exe.config
+E:\SoftUni\C#OOP\ExamPreparation\NeedForSpeed\bin\Debug\NeedForSpeed.exe
+E:\SoftUni\C#OOP\ExamPreparation\NeedForSpeed\bin\Debug\NeedForSpeed.pdb
+E:\SoftUni\C#OOP\ExamPreparation\NeedForSpeed\obj\Debug\NeedForSpeed.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\ExamPreparation\NeedForSpeed\obj\Debug\NeedForSpeed.exe
+E:\SoftUni\C#OOP\ExamPreparation\NeedForSpeed\obj\Debug\NeedForSpeed.pdb

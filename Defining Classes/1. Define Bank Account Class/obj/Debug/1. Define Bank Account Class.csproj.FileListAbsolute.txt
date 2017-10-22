@@ -1,0 +1,7 @@
+E:\SoftUni\C#Advanced\Defining Classes\1. Define Bank Account Class\bin\Debug\_1.Define_Bank_Account_Class.exe.config
+E:\SoftUni\C#OOP\Defining Classes\1. Define Bank Account Class\bin\Debug\_1.Define_Bank_Account_Class.exe.config
+E:\SoftUni\C#OOP\Defining Classes\1. Define Bank Account Class\bin\Debug\_1.Define_Bank_Account_Class.exe
+E:\SoftUni\C#OOP\Defining Classes\1. Define Bank Account Class\bin\Debug\_1.Define_Bank_Account_Class.pdb
+E:\SoftUni\C#OOP\Defining Classes\1. Define Bank Account Class\obj\Debug\1. Define Bank Account Class.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Defining Classes\1. Define Bank Account Class\obj\Debug\_1.Define_Bank_Account_Class.exe
+E:\SoftUni\C#OOP\Defining Classes\1. Define Bank Account Class\obj\Debug\_1.Define_Bank_Account_Class.pdb

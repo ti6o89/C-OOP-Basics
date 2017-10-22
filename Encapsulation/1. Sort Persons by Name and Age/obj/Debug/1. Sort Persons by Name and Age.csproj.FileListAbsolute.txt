@@ -1,0 +1,9 @@
+E:\SoftUni\C#Advanced\Encapsulation\1. Sort Persons by Name and Age\bin\Debug\_1.Sort_Persons_by_Name_and_Age.exe.config
+E:\SoftUni\C#Advanced\Encapsulation\1. Sort Persons by Name and Age\bin\Debug\_1.Sort_Persons_by_Name_and_Age.exe
+E:\SoftUni\C#Advanced\Encapsulation\1. Sort Persons by Name and Age\bin\Debug\_1.Sort_Persons_by_Name_and_Age.pdb
+E:\SoftUni\C#Advanced\Encapsulation\1. Sort Persons by Name and Age\obj\Debug\1. Sort Persons by Name and Age.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\Encapsulation\1. Sort Persons by Name and Age\obj\Debug\_1.Sort_Persons_by_Name_and_Age.exe
+E:\SoftUni\C#Advanced\Encapsulation\1. Sort Persons by Name and Age\obj\Debug\_1.Sort_Persons_by_Name_and_Age.pdb
+E:\SoftUni\C#OOP\Encapsulation\1. Sort Persons by Name and Age\bin\Debug\_1.Sort_Persons_by_Name_and_Age.exe.config
+E:\SoftUni\C#OOP\Encapsulation\1. Sort Persons by Name and Age\obj\Debug\_1.Sort_Persons_by_Name_and_Age.exe
+E:\SoftUni\C#OOP\Encapsulation\1. Sort Persons by Name and Age\obj\Debug\_1.Sort_Persons_by_Name_and_Age.pdb

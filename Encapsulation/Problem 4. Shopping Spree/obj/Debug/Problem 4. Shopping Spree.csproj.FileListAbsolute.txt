@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Encapsulation\Problem 4. Shopping Spree\bin\Debug\Problem_4.Shopping_Spree.exe.config
+E:\SoftUni\C#OOP\Encapsulation\Problem 4. Shopping Spree\bin\Debug\Problem_4.Shopping_Spree.exe
+E:\SoftUni\C#OOP\Encapsulation\Problem 4. Shopping Spree\bin\Debug\Problem_4.Shopping_Spree.pdb
+E:\SoftUni\C#OOP\Encapsulation\Problem 4. Shopping Spree\obj\Debug\Problem 4. Shopping Spree.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Encapsulation\Problem 4. Shopping Spree\obj\Debug\Problem_4.Shopping_Spree.exe
+E:\SoftUni\C#OOP\Encapsulation\Problem 4. Shopping Spree\obj\Debug\Problem_4.Shopping_Spree.pdb

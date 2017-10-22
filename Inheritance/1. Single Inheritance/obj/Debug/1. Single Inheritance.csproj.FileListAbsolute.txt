@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Inheritance\1. Single Inheritance\bin\Debug\_1.Single_Inheritance.exe.config
+E:\SoftUni\C#OOP\Inheritance\1. Single Inheritance\bin\Debug\_1.Single_Inheritance.exe
+E:\SoftUni\C#OOP\Inheritance\1. Single Inheritance\bin\Debug\_1.Single_Inheritance.pdb
+E:\SoftUni\C#OOP\Inheritance\1. Single Inheritance\obj\Debug\1. Single Inheritance.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Inheritance\1. Single Inheritance\obj\Debug\_1.Single_Inheritance.exe
+E:\SoftUni\C#OOP\Inheritance\1. Single Inheritance\obj\Debug\_1.Single_Inheritance.pdb

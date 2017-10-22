@@ -1,0 +1,5 @@
+E:\SoftUni\C#OOP\Polymorphism-Exercises\Problem 3. Wild farm\bin\Debug\Problem_3.Wild_farm.exe.config
+E:\SoftUni\C#OOP\Polymorphism-Exercises\Problem 3. Wild farm\bin\Debug\Problem_3.Wild_farm.exe
+E:\SoftUni\C#OOP\Polymorphism-Exercises\Problem 3. Wild farm\bin\Debug\Problem_3.Wild_farm.pdb
+E:\SoftUni\C#OOP\Polymorphism-Exercises\Problem 3. Wild farm\obj\Debug\Problem_3.Wild_farm.exe
+E:\SoftUni\C#OOP\Polymorphism-Exercises\Problem 3. Wild farm\obj\Debug\Problem_3.Wild_farm.pdb

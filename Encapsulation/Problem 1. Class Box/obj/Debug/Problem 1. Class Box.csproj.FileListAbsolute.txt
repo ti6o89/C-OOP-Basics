@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Encapsulation\Problem 1. Class Box\bin\Debug\Problem_1.Class_Box.exe.config
+E:\SoftUni\C#OOP\Encapsulation\Problem 1. Class Box\obj\Debug\Problem 1. Class Box.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Encapsulation\Problem 1. Class Box\bin\Debug\Problem_1.Class_Box.exe
+E:\SoftUni\C#OOP\Encapsulation\Problem 1. Class Box\bin\Debug\Problem_1.Class_Box.pdb
+E:\SoftUni\C#OOP\Encapsulation\Problem 1. Class Box\obj\Debug\Problem_1.Class_Box.exe
+E:\SoftUni\C#OOP\Encapsulation\Problem 1. Class Box\obj\Debug\Problem_1.Class_Box.pdb

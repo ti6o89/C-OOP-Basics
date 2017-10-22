@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Polymorphism-Lab\3. Shapes\bin\Debug\_3.Shapes.exe.config
+E:\SoftUni\C#OOP\Polymorphism-Lab\3. Shapes\bin\Debug\_3.Shapes.exe
+E:\SoftUni\C#OOP\Polymorphism-Lab\3. Shapes\bin\Debug\_3.Shapes.pdb
+E:\SoftUni\C#OOP\Polymorphism-Lab\3. Shapes\obj\Debug\3. Shapes.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Polymorphism-Lab\3. Shapes\obj\Debug\_3.Shapes.exe
+E:\SoftUni\C#OOP\Polymorphism-Lab\3. Shapes\obj\Debug\_3.Shapes.pdb

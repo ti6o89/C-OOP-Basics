@@ -1,0 +1,5 @@
+E:\SoftUni\C#OOP\Defining Classes\Problem 10. Car Salesman\bin\Debug\Problem_10.Car_Salesman.exe.config
+E:\SoftUni\C#OOP\Defining Classes\Problem 10. Car Salesman\bin\Debug\Problem_10.Car_Salesman.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 10. Car Salesman\bin\Debug\Problem_10.Car_Salesman.pdb
+E:\SoftUni\C#OOP\Defining Classes\Problem 10. Car Salesman\obj\Debug\Problem_10.Car_Salesman.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 10. Car Salesman\obj\Debug\Problem_10.Car_Salesman.pdb

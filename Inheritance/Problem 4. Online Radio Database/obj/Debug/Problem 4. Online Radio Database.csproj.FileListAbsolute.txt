@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Inheritance\Problem 4. Online Radio Database\bin\Debug\Problem_4.Online_Radio_Database.exe.config
+E:\SoftUni\C#OOP\Inheritance\Problem 4. Online Radio Database\bin\Debug\Problem_4.Online_Radio_Database.exe
+E:\SoftUni\C#OOP\Inheritance\Problem 4. Online Radio Database\bin\Debug\Problem_4.Online_Radio_Database.pdb
+E:\SoftUni\C#OOP\Inheritance\Problem 4. Online Radio Database\obj\Debug\Problem 4. Online Radio Database.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Inheritance\Problem 4. Online Radio Database\obj\Debug\Problem_4.Online_Radio_Database.exe
+E:\SoftUni\C#OOP\Inheritance\Problem 4. Online Radio Database\obj\Debug\Problem_4.Online_Radio_Database.pdb

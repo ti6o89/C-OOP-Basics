@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Defining Classes\Problem 6. Company Roster\bin\Debug\Problem_6.Company_Roster.exe.config
+E:\SoftUni\C#OOP\Defining Classes\Problem 6. Company Roster\bin\Debug\Problem_6.Company_Roster.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 6. Company Roster\bin\Debug\Problem_6.Company_Roster.pdb
+E:\SoftUni\C#OOP\Defining Classes\Problem 6. Company Roster\obj\Debug\Problem 6. Company Roster.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Defining Classes\Problem 6. Company Roster\obj\Debug\Problem_6.Company_Roster.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 6. Company Roster\obj\Debug\Problem_6.Company_Roster.pdb

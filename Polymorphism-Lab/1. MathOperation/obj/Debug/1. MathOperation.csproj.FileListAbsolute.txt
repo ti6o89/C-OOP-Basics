@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Polymorphism-Lab\1. MathOperation\bin\Debug\_1.MathOperation.exe.config
+E:\SoftUni\C#OOP\Polymorphism-Lab\1. MathOperation\bin\Debug\_1.MathOperation.exe
+E:\SoftUni\C#OOP\Polymorphism-Lab\1. MathOperation\bin\Debug\_1.MathOperation.pdb
+E:\SoftUni\C#OOP\Polymorphism-Lab\1. MathOperation\obj\Debug\1. MathOperation.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Polymorphism-Lab\1. MathOperation\obj\Debug\_1.MathOperation.exe
+E:\SoftUni\C#OOP\Polymorphism-Lab\1. MathOperation\obj\Debug\_1.MathOperation.pdb

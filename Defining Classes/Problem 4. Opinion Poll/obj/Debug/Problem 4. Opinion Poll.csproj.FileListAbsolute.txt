@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Defining Classes\Problem 4. Opinion Poll\bin\Debug\Problem_4.Opinion_Poll.exe.config
+E:\SoftUni\C#OOP\Defining Classes\Problem 4. Opinion Poll\bin\Debug\Problem_4.Opinion_Poll.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 4. Opinion Poll\bin\Debug\Problem_4.Opinion_Poll.pdb
+E:\SoftUni\C#OOP\Defining Classes\Problem 4. Opinion Poll\obj\Debug\Problem 4. Opinion Poll.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Defining Classes\Problem 4. Opinion Poll\obj\Debug\Problem_4.Opinion_Poll.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 4. Opinion Poll\obj\Debug\Problem_4.Opinion_Poll.pdb

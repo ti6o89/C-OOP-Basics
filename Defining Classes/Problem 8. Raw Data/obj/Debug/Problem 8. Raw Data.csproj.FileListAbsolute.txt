@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\Defining Classes\Problem 8. Raw Data\bin\Debug\Problem_8.Raw_Data.exe.config
+E:\SoftUni\C#OOP\Defining Classes\Problem 8. Raw Data\bin\Debug\Problem_8.Raw_Data.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 8. Raw Data\bin\Debug\Problem_8.Raw_Data.pdb
+E:\SoftUni\C#OOP\Defining Classes\Problem 8. Raw Data\obj\Debug\Problem 8. Raw Data.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\Defining Classes\Problem 8. Raw Data\obj\Debug\Problem_8.Raw_Data.exe
+E:\SoftUni\C#OOP\Defining Classes\Problem 8. Raw Data\obj\Debug\Problem_8.Raw_Data.pdb

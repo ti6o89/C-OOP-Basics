@@ -1,0 +1,6 @@
+E:\SoftUni\C#OOP\ExamPreparation\Avatar\bin\Debug\Avatar.exe.config
+E:\SoftUni\C#OOP\ExamPreparation\Avatar\bin\Debug\Avatar.exe
+E:\SoftUni\C#OOP\ExamPreparation\Avatar\bin\Debug\Avatar.pdb
+E:\SoftUni\C#OOP\ExamPreparation\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#OOP\ExamPreparation\Avatar\obj\Debug\Avatar.exe
+E:\SoftUni\C#OOP\ExamPreparation\Avatar\obj\Debug\Avatar.pdb
